@@ -1,0 +1,32 @@
+# Site settings
+title: Tom Paradise
+email: Tomparadise1@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My portfolio and Dev Blog.
+baseurl: "/"
+url: https://github.com/TomParadise/TomParadise.github.io.git
+twitter_username: Tom_SirMr
+github_username:  TomParadise
+
+# SASS directory
+sass:
+   sass_dir: ./_sass/
+    
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Build settings
+markdown: kramdown
+hightlighter: 'rouge' 
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+

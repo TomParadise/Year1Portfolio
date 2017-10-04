@@ -1,0 +1,13 @@
+---
+layout: post
+title: Intro Blog
+date: %2017-10-04% %18:26:00%
+description: My first blog post
+category: newbie
+published: true
+tags:
+ -esd
+ -general noise
+---
+My name is Tom Paradise and I am in my first year of games technology at the University of the West of England.
+---
