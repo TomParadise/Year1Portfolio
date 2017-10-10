@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
 
-Career started here.. I've obtained these grades. I make games, sometimes I program. 
+Currently studying Games Technology at UWE Bristol. Previously took Computing, Mathematics, and Bristol at A level.
 
 So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
 
@@ -14,10 +14,10 @@ So, this might be a good place to list a shorthand CV, or even provide a downloa
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:newbie@noob.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="tomparadise1@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://twitter.com/Tom_SirMr" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
