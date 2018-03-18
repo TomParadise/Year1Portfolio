@@ -53,13 +53,17 @@ I have implemented more advanced movement mechanics for the alien spaceships alo
 Here are some gifs showcasing the various movement modes:
 
 <u>Standard Space Invaders movement</u>
+
 <img src ="{{ site.baseurl }}/img/SpaceInvadersGif1.gif">
 
 <u>Gravity mode movement</u>
+
 <img src ="{{ site.baseurl }}/img/SpaceInvadersGif2.gif">
 
 <u>Quadratic mode movement</u>
+
 <img src ="{{ site.baseurl }}/img/SpaceInvadersGif3.gif">
 
 <u>Sine mode movement</u>
+
 <img src ="{{ site.baseurl }}/img/SpaceInvadersGif4.gif">
