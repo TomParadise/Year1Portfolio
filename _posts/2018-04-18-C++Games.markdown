@@ -39,3 +39,27 @@ Here is an image showing the game menu:
 
 And here is a gif showing some gameplay and the 'Paddle grow' power up:
 <img src ="{{ site.baseurl }}/img/pongGif.gif">
+
+
+#### Space Invaders ####
+
+Lastly, the most recent game I have completed is Space Invaders, but with some additional features. 
+
+I have implemented more advanced movement mechanics for the alien spaceships alongside the traditional left/right movement whereby the aliens shift down after reaching the side of the screen. The additional movement features are:
+1. A 'Gravity' mode where the enemies gradually fall down at a set rate
+2. A 'Quadratic' mode in which they move according to a quadratic curve across the screen
+3. A 'Sine' mode which features Sinusoidal alien ship movement.
+
+Here are some gifs showcasing the various movement modes:
+
+<u>Standard Space Invaders movement</u>
+<img src ="{{ site.baseurl }}/img/SpaceInvadersGif1.gif">
+
+<u>Gravity mode movement</u>
+<img src ="{{ site.baseurl }}/img/SpaceInvadersGif2.gif">
+
+<u>Quadratic mode movement</u>
+<img src ="{{ site.baseurl }}/img/SpaceInvadersGif3.gif">
+
+<u>Sine mode movement</u>
+<img src ="{{ site.baseurl }}/img/SpaceInvadersGif4.gif">
