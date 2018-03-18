@@ -1,0 +1,40 @@
+---
+layout: post
+title: Coursework c++ games
+date: 2018-03-18 20:30:00
+description: A post about some of the games I have created in c++ so far
+category: Games
+published: true
+tags:
+  -esd
+  -general noise
+  -c++
+---
+So far in my ESD module I have created several games, 3 of which I will display here.
+
+All games shown were coded in c++ using the ASGE framework provided by UWE.
+
+#### Breakout ####
+---
+
+The first game I will show is breakout, a very familiar title to most people. The main gameplay loop for the player is to move the paddle left and right to deflect the ball and hit it into the bricks above. Remove all bricks to win, or miss the ball 3 times to lose.
+
+<img src ="{{ site.baseurl }}/img/Breakout.jpg">
+
+Further functionality was added to this game by implementing falling gems similar to that of the game 'Arkenoid'
+
+#### Pong ####
+---
+
+For my first major coursework assignment I had to create Pong and build upon the base game by adding additional features. I added further functionality and gameplay features through the use of power ups. 
+
+Specifically, I implemented 3 power up abilities:
+1. Paddle grow - which as it suggests makes the player's paddle who last hit the ball double in size
+2. Ball grow - which doubles the ball's size
+3. Ball shrink - which shrinks the ball to half it's size
+
+Here is an image showing the game menu:
+<img src ="{{ site.baseurl }}/img/Pong1.jpg">
+
+And here is a gif showing some gameplay and the 'Paddle grow' power up:
+<img src ="{{ site.baseurl }}/img/pongGif.gif">

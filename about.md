@@ -8,7 +8,9 @@ permalink: /about/
 
 Currently studying Games Technology at UWE Bristol. Previously took Computing, Mathematics, and Physics at A level.
 
-So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
+So far over my first year on this University course I have created several playable games in c++, including pong, space invaders, and breakout, using the ASGE framework provided by the University. Also, I have created a 3D model of a tank in Maya 2018 and I am currently working on implementing this into a Unity gamespace.
+
+To see more information on my c++ games have a look at my blog posts.
 
 <br/>
 <hr/>
@@ -21,6 +23,6 @@ So, this might be a good place to list a shorthand CV, or even provide a downloa
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	The best way to contact me is through my email.
 </div>
 
