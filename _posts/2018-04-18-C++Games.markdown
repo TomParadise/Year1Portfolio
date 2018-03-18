@@ -23,6 +23,7 @@ The first game I will show is breakout, a very familiar title to most people. Th
 
 Further functionality was added to this game by implementing falling gems similar to that of the game 'Arkenoid'
 
+
 #### Pong ####
 ---
 
