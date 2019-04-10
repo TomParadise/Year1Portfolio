@@ -10,7 +10,7 @@ tags:
   -general noise
   -c++
 ---
-So far in my ESD module I have created several games, 3 of which I will display here.
+So far in the ESD module of my University course I have created several games, 3 of which I will display here.
 
 All games shown were coded in c++ using the ASGE framework provided by UWE.
 
