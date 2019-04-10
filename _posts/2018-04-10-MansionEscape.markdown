@@ -18,10 +18,10 @@ Experience the original 'Haunted Manion' text adventure game recreated in the mo
 #### Description ####
 ---
 
-You find yourself trapped within the grounds of an ominous, dark mansion. Explore the area to find items and escape the area! 
+You find yourself trapped within the grounds of an ominous, dark mansion. Explore the area to find items and escape! 
 Be sure to examine your surroundings and check every location. You never know what objects you may find to aid you in your escape.
 
-But beware! The cursed mansion holds many obstacles and creatures that will attempt to stop you from leaving. Make sure your candle is lit before venturing too deep, you never know what horrors await around the corner...
+But beware! The cursed mansion holds many obstacles and creatures that will attempt to stop you from leaving. Make sure your candle is lit before venturing too deep, you never know what horrors await you around the corner...
 
 #### Features ####
 ---
