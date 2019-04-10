@@ -1,23 +1,22 @@
 ---
 layout: post
-title: Basic Reborn: Mansion Escape
+title: Mansion Escape
 date: 2018/15/11 20:30:00
-description: Official store page for Basic Reborn: Mansion Escape
+description: Official store page for Mansion Escape
 category: LLP
 published: true
 tags:
-  -LLP
-  -University Games
-  -c++
+  - LLP
+  - University Games
+  - c++
 ---
 Available to play today, Basic Reborn: Mansion Escape - a recreation of the classic text-based adventure.
-
-<img src ="{{ site.baseurl }}/img/basic_reborn.png">
 
 Experience the original 'Haunted Manion' text adventure game recreated in the modern C++ programming language!
 
 #### Description ####
 ---
+
 You find yourself trapped within the grounds of an ominous, dark mansion. Explore the area to find items and escape the area! 
 Be sure to examine your surroundings and check every location. You never know what objects you may find to aid you in your escape.
 
@@ -25,11 +24,6 @@ But beware! The cursed mansion holds many obstacles and creatures that will atte
 
 #### Features ####
 ---
-<ul>
-	<li>Explore a richly detailed environment with the original descriptions from the classic game!</li>
-	<li>Collect items and escape to get your score.</li>
-	<li>Try to escape in the least amount of moves possible!</li>
-</ul>
+
 
 <u>Try to achieve the high score of 34</u>
-<img src ="{{ site.baseurl }}/img/mansion_escape.png">

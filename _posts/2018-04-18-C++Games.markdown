@@ -6,9 +6,9 @@ description: A post about some of the games I have created in c++ so far
 category: Games
 published: true
 tags:
-  -esd
-  -general noise
-  -c++
+  - esd
+  - general noise
+  - c++
 ---
 So far in the ESD module of my University course I have created several games, 3 of which I will display here.
 
