@@ -18,9 +18,11 @@ Rainforest Rampage Online is a recreation of the board game of the same name wit
 ---
 
 Connect with up to 4 players and take on the rainforest!
-
+<img src ="{{ site.baseurl }}/img/RR1.png">
 
 Control your animal and take turns moving across the gameboard and drawing cards from the event deck. Aim to reach your target to earn points while avoiding poachers and deforestation drawn from the deck!
+
+<img src ="{{ site.baseurl }}/img/RR2.png">
 
 However, the deck doesn't only have dangers. Rangers, Campaigners and revoery cards will aid you throughout the game. 
 
@@ -35,5 +37,4 @@ Move strategically around the board and be the first to reach 200 points, or hav
 	<li>In-game text chat</li>
 	<li>Move around the hex-tiled gameboard and earn points by reaching your targets</li>
 	<li>Experience the different events that can happen from the event deck</li>
-	<li></li>
 </ul>
