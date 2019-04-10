@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mansion Escape
-date: 2019-02-07 20:30:00
+title: Ex Machina
+date: 2019-02-07 22:00:00
 description: Official store page for Ex Machina
 category: LLP
 published: true
