@@ -30,13 +30,13 @@ However, I think it is mostly due to the fact that the BASIC version is written 
 of code so while porting it to C++, I am focusing less on refactoring. Going forward this is something
 I will actively work on.
 
-#### Post Mortem####
+#### Post Mortem ####
 ---
 
-I have now finished this assignment, given my viva to my lecturer, and received feedback for it. 
+I have now finished this assignment, given a viva to my lecturer, and received feedback for it. 
 The biggest thing I have learned from this project is that I need to brush up on and further implement 
 object-oriented programming (OOP) into my work. My lecturer showed how to access the module's OOP learning section 
 and advised I look over some of the previously given tutorials on it. So, in preparation for the next assignments, 
 and likely during them, I will be looking into the OOP learning materials so that my code can be more human readable,
 reusable and efficient. For further work, I may adapt this assignment to have OOP features. For example, some classes 
-I could implement into this assignment are a player class, inventory class, map class, tile class, item class and enemy class.
+I could implement into this assignment are a player class, inventory class, map class, room class, item class and enemy class.
