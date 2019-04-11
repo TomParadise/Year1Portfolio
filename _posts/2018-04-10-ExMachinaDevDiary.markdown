@@ -3,7 +3,7 @@ layout: post
 title: Ex Machina Dev Diary
 date: 2018-12-13 09:00:00
 description: Dev Diary for Ex Machina
-category: LLP
+category: Dev Diary
 published: true
 tags:
   - LLP
@@ -14,6 +14,7 @@ This is my developer diary for the second game assignment in the Low Level Progr
 
 #### Entry #1 ####
 ---
+
 For this assignment we have been tasked with creating a game that takes an idea presented in the film - Ex
 machina. We need to focus on:
 

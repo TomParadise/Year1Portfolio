@@ -3,7 +3,7 @@ layout: post
 title: Ex Machina
 date: 2019-02-07 22:00:00
 description: Official store page for Ex Machina
-category: LLP
+category: Games
 published: true
 tags:
   - LLP

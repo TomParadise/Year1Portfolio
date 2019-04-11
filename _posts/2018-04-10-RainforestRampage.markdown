@@ -3,7 +3,7 @@ layout: post
 title: Rainforest Rampage Online
 date: 2019-05-03 09:00:00
 description: Official store page for Rainforest Rampage Online
-category: LLP
+category: Games
 published: true
 tags:
   - LLP
@@ -24,7 +24,7 @@ Control your animal and take turns moving across the gameboard and drawing cards
 
 <img src ="{{ site.baseurl }}/img/RR2.png">
 
-However, the deck doesn't only have dangers. Rangers, Campaigners and revoery cards will aid you throughout the game. 
+However, the deck doesn't only have dangers. Rangers, Campaigners and recovery cards will aid you throughout the game. 
 
 Move strategically around the board and be the first to reach 200 points, or have the most point once the deck runs out to win.
 

@@ -3,7 +3,7 @@ layout: post
 title: Basic Reb0rn Dev Diary
 date: 2018-10-12 09:00:00
 description: Dev Diary for Basic Reb0rn
-category: LLP
+category: Dev Diary
 published: true
 tags:
   - LLP
