@@ -59,7 +59,7 @@ game hand in.
 
 #### Entry #3 ####
 ---
-Since the last entry I have fixed and implemented all card effects including the new card design that we created from feeback for the original
+Since the last entry I have worked on and implemented all card effects including the new card design that we created from feeback for the original
 board game assignment. I described it fully in detail in the Game Design Document giving the gameplay reasons why we decided to add it. Essentially,
 we have made several small changes that improve the quality of life and game balance of this digital online implementation of the game compared to the physical board game.
 
@@ -75,13 +75,13 @@ after the card is used. Within the HUD for the game we have a die that is rolled
 effect after the die roll, giving a sense of progression to the impact of the card being used. I used the icon of the poacher that is used on the card
 to connect the two and created a simple array of gameobjects. After the die has rolled, if the card was a poacher it sets a boolean to be true so that in the update function
 of the HUD, the poacher effect is updated. The positions of the effects are also set immediately after the die has finished rolling. Depending on the type 
-of poacher card (Number or Colour), and the value rolled on the die, the poacher effects' positions are set to the appropriate tiles being affected.
+of poacher card (Number or colour), and the value rolled on the die, the poacher effects' positions are set to the appropriate tiles being affected.
 In each update, the opacity is increased over delta time and then decrease once fully visible, making them fade in and out. This gives a cleaner look and 
 allows the player to take in what is happening as the icons fade in and out. Lastly, after a certain amount of time the boolean is set to false and they are no longer updated or rendered.
 
 A large problem I encountered with this was due to the water tiles on the board. On specific dice rolls, the game would crash and after debugging for a long while I realised 
 it was only with the number 1 dice roll. The problem was that all water tiles have a tile number of 1 as their default so it would loop through the array and try to change the transform 
-for an element that is outside its bounds. Ultimately, it was a simply fix by checking if the tile was not of water type but the debugging took up a large portion of the day that could have been spent on enhancing
+for an element that is outside its bounds. Ultimately, it was a simple fix by checking if the tile was not of water type but it was the debugging that was the problem as it took up a large portion of the day that could have been spent on enhancing
 other features.
 
 #### Post Mortem ####
