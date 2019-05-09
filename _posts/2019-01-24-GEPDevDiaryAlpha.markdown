@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Engine Programming Dev Diary
+title: Game Engine Programming Alpha Dev Diary
 date: 2019-01-24 09:00:00
 description: Dev Diary for Game Engine Programming
 category: Dev Diary
@@ -11,9 +11,9 @@ tags:
   - c++
   - DirectX
 ---
-This is my developer diary for the MarioKart assignment in the Game Engine Programming Module.
+This is my developer diary for the Unity implementation of the MarioKart assignment in the Game Engine Programming Module.
 
-#### Entry #1 - Unity 'Alpha' Post #1 ####
+#### Entry #1 - Intro & Track Pieces ####
 ---
 For this assignment we have been tasked with making a MarioKart-like racing game using DirectX. 
 For this beginning stage, we must create a basic alpha prototype of the game in the Unity game engine.
@@ -28,7 +28,7 @@ exporting to Unity.
 My experience with making models in Maya for Unity is that scaling can be a big issue since shapes in Unity don't tell you their exact dimensions 
 but instead their scale relative to their default size. So, I need to ensure the scale of the track is suitable for the size of the player-controlled karts.
 
-#### Entry #2 - Unity 'Alpha' Post #2 ####
+#### Entry #2 - Track & Checkpoints ####
 ---
 Since the last post, I have created the track pieces and alligned them to form a simple oval shaped track and started on checkpoints.
 
@@ -51,7 +51,7 @@ checkpoint number is the maximum, it resets and increments the lap counter.
 
 Moving forward I need to figure out how to determine the positions of each player because, currently, it will only update after you pass through a checkpoint.
 
-#### Entry #2 - Unity 'Alpha' Post #3 ####
+#### Entry #3 - Positioning ####
 ---
 I have now fully implemented player positioning to our Unity alpha. Each update on the player, the distance between them and the next checkpoint is calculated and sent
 to the race manager. Also, every time a player passes through a checkpoint, they pass their current checkpoint to the race manager. In the race manager, there are arrays for 
