@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: About Me
 permalink: /about/
 ---
 
@@ -16,8 +16,8 @@ When I'm not working on my computer I love to express my creativity through proj
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="tomparadise1@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="mailto:tomparadise1@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/TomParadise" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/Tom_SirMr" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
