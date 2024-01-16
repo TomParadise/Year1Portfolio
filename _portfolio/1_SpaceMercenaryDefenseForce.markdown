@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2D Sci-Fi Roguelike
+title: Space Mercenary Defense Force
 description: A hoard-survivor game released on Steam.
 img: ../img/SMDF/SMDF_square.png 
 published: true
@@ -11,11 +11,6 @@ published: true
 #### Space Mercenary Defense Force
 I created Space Mercenary Defense Force as a solo project and self-published on Steam utilising Steam's Early Access release feature and a total dev time of 14 months.
 
-<!--<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
-</div> -->
-
 <div class="owl-carousel owl-theme">
 <a href="{{ site.baseurl }}/img/SMDF/minibossCharger.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/minibossCharger.png" /></a>
 <a href="{{ site.baseurl }}/img/SMDF/Saucer Boss with HP bar.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/Saucer Boss with HP bar.png" /></a>
@@ -23,7 +18,7 @@ I created Space Mercenary Defense Force as a solo project and self-published on 
 </div>
 
 <div class="col three caption">
-	Gameplay screenshots for Space Mercenary Defense Force. 
+	Gameplay screenshots.
 </div>
 
 <br/>
