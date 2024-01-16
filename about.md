@@ -6,11 +6,11 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
 
-Currently studying Games Technology at UWE Bristol. Previously took Computing, Mathematics, and Physics at A level.
+I'm a post-graduate with a BSc and a passion to create games. I've created a fully released game available on Steam and many side-projects since graduating.
 
-So far over my first year on this University course I have created several playable games in c++, including pong, space invaders, and breakout, using the ASGE framework provided by the University. Also, I have created a 3D model of a tank in Maya 2018 and I am currently working on implementing this into a Unity gamespace.
+I most enjoy implementing interactive gameplay systems and mechanics with direct player feedback and response through an iterative design & implementation process.
 
-To see more information on my c++ games have a look at my blog posts.
+When I'm not working on my computer I love to express my creativity through projects such as drawing or creating clay miniatures.
 
 <br/>
 <hr/>
