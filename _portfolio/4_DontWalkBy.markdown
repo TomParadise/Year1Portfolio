@@ -17,7 +17,7 @@ Created by a final year university cohort of 33 students split into groups of 7,
 </ul>
 
 <div class="owl-carousel owl-theme">
-<iframe src="https://www.youtube.com/embed/Md0cpqvYPoA"></iframe>
+<iframe src="https://www.youtube.com/embed/Md0cpqvYPoA" onload='resizeIframe(this)'></iframe>
 <a href="{{ site.baseurl }}/img/DWB/1-Tutorial.png" target="_blank"><img src="{{ site.baseurl }}/img/DWB/1-Tutorial.png" /></a>
 <a href="{{ site.baseurl }}/img/DWB/2-gameplay" target="_blank"><img src="{{ site.baseurl }}/img/DWB/2-gameplay.png" /></a>
 <a href="{{ site.baseurl }}/img/DWB/3-gameplay.png" target="_blank"><img src="{{ site.baseurl }}/img/DWB/3-gameplay.png" /></a>
