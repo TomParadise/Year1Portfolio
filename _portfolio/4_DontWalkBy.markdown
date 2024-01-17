@@ -2,7 +2,7 @@
 layout: project
 title: Don't Walk By
 description: A lemmings inspired game to guide peeps safely to the exit.
-img: ../img/DWB/DWBThumbnail.jpg
+img: ../img/DWB/DWBThumbnail.png
 published: true
 ---
 
@@ -17,7 +17,7 @@ Created by a final year university cohort of 33 students split into groups of 7,
 </ul>
 
 <div class="owl-carousel owl-theme">
-<div class="item-video"><a class="owl-video" href="https://www.youtube.com/watch?v=Md0cpqvYPoA"></a></div>
+<iframe src="https://www.youtube.com/embed/Md0cpqvYPoA"></iframe>
 <a href="{{ site.baseurl }}/img/DWB/1-Tutorial.png" target="_blank"><img src="{{ site.baseurl }}/img/DWB/1-Tutorial.png" /></a>
 <a href="{{ site.baseurl }}/img/DWB/2-gameplay" target="_blank"><img src="{{ site.baseurl }}/img/DWB/2-gameplay.png" /></a>
 <a href="{{ site.baseurl }}/img/DWB/3-gameplay.png" target="_blank"><img src="{{ site.baseurl }}/img/DWB/3-gameplay.png" /></a>
