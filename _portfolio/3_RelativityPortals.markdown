@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Relativity - Demonstration
+title: Relativity Demonstration
 description: Inspired by MC Escher to create puzzling environments.
 img: ../img/Relativity/RelativityThumbnail.png
 published: true

@@ -2,34 +2,24 @@
 layout: project
 title: Draw It!
 description: A VR drawing game.
-img: ../img/SMDF/SMDF_square.png 
+img: ../img/DrawIt/DrawItThumbnail.png 
 published: true
 ---
 
-<center>A 2D sci-fi action roguelike featuring boss fights and branching upgrade trees - released on Steam.</center><br/>
+This project was created as a university assignment in a group of 4.
 
-#### Space Mercenary Defense Force
-I created Space Mercenary Defense Force as a solo project and self-published on Steam utilising Steam's Early Access release feature and a total dev time of 14 months.
-
-<!--<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
-</div> -->
+‘Draw It!’ is a reimagining of the classic game Pictionary in virtual reality for the Oculus Quest. Create 3D drawings in virtual space using intuitive motion controls, allowing for easy ‘pick up and play’ gameplay for everyone! Be immersed in mesmerising environments which alter gameplay with their dynamic word banks. Play local with one headset or online with others!
 
 <div class="owl-carousel owl-theme">
-<a href="{{ site.baseurl }}/img/SMDF/minibossCharger.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/minibossCharger.png" /></a>
-<a href="{{ site.baseurl }}/img/SMDF/Saucer Boss with HP bar.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/Saucer Boss with HP bar.png" /></a>
-<a href="{{ site.baseurl }}/img/SMDF/Outer Atmosphere Lightning Event.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/Outer Atmosphere Lightning Event.png" /></a>
+<div class="item-video"><a class="owl-video" href="https://www.youtube.com/watch?v=LCaSdR38KLg"></a></div>
+<a href="{{ site.baseurl }}/img/DrawIt/2-flower" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/2-flower.png" /></a>
+<a href="{{ site.baseurl }}/img/DrawIt/3-fire.png" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/3-fire.png" /></a>
 </div>
 
-<div class="col three caption">
-	Gameplay screenshots for Space Mercenary Defense Force. 
-</div>
+Utilising Unity's particle system and trail renderer components we have created a system that allows players to create 3D paintings in a virtual reality play space.
 
-<br/>
+In the vr environment, take control of a paint palette and brush with customisable paint colour and brush width options! Hold the trigger to draw and release to stop, and change colours by simply touching the brush to the desired colour on the palette.
 
-#### Links
-----
-[Space Mercenary Defense Force][SMDFSteamPage] Steam Page
+Different environments provide different word bank prompts to choose from! Our dynamic word bank system provides thematic prompts relevant to the selected stage.
 
-[SMDFSteamPage]: https://store.steampowered.com/app/2220320/Space_Mercenary_Defense_Force/
+Levels are split into a 3 stage round system: prompt selection, drawing, and post-drawing. The active player can freely choose a prompt from the whiteboard before pressing the button and beginning the countdown for the drawing stage whereby the secondary players must correctly guess the drawing before the timer runs out! After correctly guessing, or running out of time, players can relax and view their drawing from all angles before starting the next round.
