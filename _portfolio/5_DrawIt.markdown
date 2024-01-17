@@ -12,7 +12,6 @@ This project was created as a university assignment in a group of 4.
 
 <div class="owl-carousel owl-theme">
 <iframe src="https://www.youtube.com/embed/LCaSdR38KLg"></iframe>
-<a href="https://www.youtube.com/watch?v=LCaSdR38KLg" target="_blank"><img src="https://www.youtube.com/watch?v=LCaSdR38KLg" /></a>
 <a href="{{ site.baseurl }}/img/DrawIt/2-flower" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/2-flower.png" /></a>
 <a href="{{ site.baseurl }}/img/DrawIt/3-fire.png" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/3-fire.png" /></a>
 </div>
