@@ -157,14 +157,23 @@
 
 .owl-carousel .owl-video-tn {
   opacity: 0;
-  height: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   transition: opacity 400ms ease; }
 
 .owl-carousel .owl-video-frame {
   position: relative;
-  z-index: 1;
-  height: 100%;
-  width: 100%; }
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0; }
+  
+  .owl-video-frame iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
