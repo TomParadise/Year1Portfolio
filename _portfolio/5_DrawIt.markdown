@@ -8,6 +8,8 @@ published: true
 
 This project was created as a university assignment in a group of 4.
    
+ <div class="item-video"><div class="maxh"> <a class="owl-video"  href="https://www.youtube.com/watch?v=LCaSdR38KLg"></a></div></div>
+   
 ‘Draw It!’ is a reimagining of the classic game Pictionary in virtual reality for the Oculus Quest. Create 3D drawings in virtual space using intuitive motion controls, allowing for easy ‘pick up and play’ gameplay for everyone! Be immersed in mesmerising environments which alter gameplay with their dynamic word banks. Play local with one headset or online with others!
 
 <div class="container">   
@@ -15,7 +17,7 @@ This project was created as a university assignment in a group of 4.
 <div class="col-sm-12">     
 <div class="owl-carousel owl-theme">
 	<a class="owl-video" href="https://www.youtube.com/watch?v=LCaSdR38KLg"></a>
-	<a href="{{ site.baseurl }}/img/DrawIt/2-flower" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/2-flower.png" /></a>
+	<a href="{{ site.baseurl }}/img/DrawIt/2-flower.png" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/2-flower.png" /></a>
 	<a href="{{ site.baseurl }}/img/DrawIt/3-fire.png" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/3-fire.png" /></a>
 </div>   
 </div> 

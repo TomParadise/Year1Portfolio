@@ -154,15 +154,15 @@
 .owl-carousel .owl-video-playing .owl-video-tn,
 .owl-carousel .owl-video-playing .owl-video-play-icon {
   display: none; }
-
+  
 .owl-carousel .owl-video-tn {
-  opacity: 0;
-  padding-bottom: 56.25%; /* 16:9 */
-  padding-top: 25px;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  transition: opacity 400ms ease; }
+  position: relative;
+  height: 0;
+ background-size: cover;
+  padding-bottom: 56.25%;
+  overflow: hidden; }
+
+.maxh {max-height: 100vh;}
 
 .owl-carousel .owl-video-frame {
   position: relative;
