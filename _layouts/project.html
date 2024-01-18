@@ -5,8 +5,10 @@ layout: default
   
 <script type="text/javascript">
 
+	var owl = $(".owl-carousel");
+	
     $(document).ready(function(){
-	$('.owl-carousel').owlCarousel({
+	$(owl).owlCarousel({
 		items:1,
 		video:true,
 		lazyLoad:true,
@@ -15,6 +17,7 @@ layout: default
 		center:true,
 		rewind:true,
 		autoplay:true, 
+		autoplayHoverPause:true
 		responsiveClass:true, 
         responsive:{
             350:{
@@ -26,6 +29,13 @@ layout: default
         }
 	})
 	});
+	
+	$('#video-one').on('play', function() {
+        owl.trigger('owl.stop');
+    });
+    $('#video-one').on('ended',function(){
+      owl.trigger('owl.play');
+    });
 	
 </script>
 
