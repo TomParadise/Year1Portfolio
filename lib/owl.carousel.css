@@ -139,7 +139,7 @@
   height: 80px;
   width: 80px;
   left: 50%;
-  top: 100%;
+  top: 50%;
   margin-left: -40px;
   margin-top: -40px;
   background: url("owl.video.play.png") no-repeat;
@@ -158,10 +158,9 @@
   
 .owl-carousel .owl-video-tn {
   position: relative;
-  height: 0;
- background-size: cover;
-  padding-bottom: 56.25%;
-  overflow: hidden; }
+  background-size: cover;
+  padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
 
 .maxh {max-height: 100vh;}
 
