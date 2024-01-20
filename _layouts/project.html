@@ -14,12 +14,16 @@ layout: default
 			margin:10,
 			center:true,
 			rewind:true,
-			responsiveClass:true, 
-			width:700,
-			height:361
 		})
 	});
 	
+	var owlCar = $(".owl-carousel").owlCarousel({options})
+	
+	var carTimer = setInterval(function() {
+		if(owlCar.height() > 1) clearInterval(carTimer);
+		owlCar.trigger('refresh.owl.carousel', [100]);
+	}, 300);
+
 </script>
 
   <header class="post-header">
