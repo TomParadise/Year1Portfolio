@@ -5,7 +5,7 @@ description: A VR drawing game.
 img: ../img/DrawIt/DrawItThumbnail.png 
 published: true
 ---
-<iframe src="https://www.youtube.com/embed/LCaSdR38KLg" height="361" data-external="1"></iframe>
+<p align="center"><iframe src="https://www.youtube.com/embed/LCaSdR38KLg" width = "700" height="361" style="max-width:100% data-external="1"></iframe>
 
 This project was created as a university assignment in a group of 4.
    
@@ -15,7 +15,6 @@ This project was created as a university assignment in a group of 4.
 <div class="row">  
 <div class="col-sm-12">     
 <div class="owl-carousel owl-theme">
-	<a class="owl-video" href="https://www.youtube.com/watch?v=LCaSdR38KLg" height="361"></a>
 	<a href="{{ site.baseurl }}/img/DrawIt/2-flower.png" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/2-flower.png" /></a>
 	<a href="{{ site.baseurl }}/img/DrawIt/3-fire.png" target="_blank"><img src="{{ site.baseurl }}/img/DrawIt/3-fire.png" /></a>
 </div>   
