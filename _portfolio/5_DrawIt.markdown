@@ -5,7 +5,7 @@ description: A VR drawing game.
 img: ../img/DrawIt/DrawItThumbnail.png 
 published: true
 ---
-<p align="center"><iframe src="https://www.youtube.com/embed/LCaSdR38KLg" width = "700" height="361" style="max-width:100% data-external="1"></iframe>
+<p align="center"><iframe src="https://www.youtube.com/embed/LCaSdR38KLg" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
 
 This project was created as a university assignment in a group of 4.
    

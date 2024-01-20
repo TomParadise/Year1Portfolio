@@ -6,7 +6,7 @@ img: ../img/DWB/DWBThumbnail.png
 published: true
 ---
 
-<p align="center"><iframe src="https://www.youtube.com/embed/Md0cpqvYPoA" width = "700" height="361" style="max-width:100% data-external="1"></iframe>
+<p align="center"><iframe src="https://www.youtube.com/embed/Md0cpqvYPoA" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
 
 Inspired by lemmings, Don't Walk By is a game revolved around health and safety. Each level has a specific layout with various hazards. You must use the given abilities to lead the dumb pawns out to the exit of the level to safety.
 
