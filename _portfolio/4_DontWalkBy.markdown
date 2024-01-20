@@ -6,8 +6,6 @@ img: ../img/DWB/DWBThumbnail.png
 published: true
 ---
 
-<p align="center"><iframe src="https://www.youtube.com/embed/Md0cpqvYPoA" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
-
 Inspired by lemmings, Don't Walk By is a game revolved around health and safety. Each level has a specific layout with various hazards. You must use the given abilities to lead the dumb pawns out to the exit of the level to safety.
 
 Created by a final year university cohort of 33 students split into groups of 7, the game features:
@@ -19,6 +17,7 @@ Created by a final year university cohort of 33 students split into groups of 7,
 </ul>
 
 <div class="owl-carousel owl-theme">
+<iframe src="https://www.youtube.com/embed/Md0cpqvYPoA" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
 <a href="{{ site.baseurl }}/img/DWB/1-Tutorial.png" target="_blank"><img src="{{ site.baseurl }}/img/DWB/1-Tutorial.png" /></a>
 <a href="{{ site.baseurl }}/img/DWB/2-gameplay" target="_blank"><img src="{{ site.baseurl }}/img/DWB/2-gameplay.png" /></a>
 <a href="{{ site.baseurl }}/img/DWB/3-gameplay.png" target="_blank"><img src="{{ site.baseurl }}/img/DWB/3-gameplay.png" /></a>
