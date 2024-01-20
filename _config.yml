@@ -18,7 +18,8 @@ plugins:
   - jekyll-gist
 
 # Build settings
-markdown: kramdown
+markdown: kramdown 
+self_contained: false
 hightlighter: 'rouge' 
 
 # Pagination
