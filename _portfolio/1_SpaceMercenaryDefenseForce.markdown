@@ -20,21 +20,21 @@ Defend against the alien invasion and take down the mother ship! Utilise branchi
 
 <p align="center"><iframe src="https://store.steampowered.com/widget/2220320/" frameborder="0" width="646" height="190" style="max-width:100%" data-external="1"></iframe>
 
-<h5>Combine Different Ship Modules Each Run</h5>
+<h3><u>Combine Different Ship Modules Each Run</h3></u>
 Equip your ship's directional module slots with various module types such as explosive, defensive, deployable, beam, & more!
 
 
-<h5>Choose Your Own Upgrade Paths</h5>
+<h3><u><Choose Your Own Upgrade Paths</h3></u>
 Featuring over 600 upgrades with unique progression via branching paths you can make each run different and unique with your choices.
 
 
-<h5>Optional Encounters</h5>
+<h3><u>Optional Encounters</h3></u>
 Complete optional random Encounters like fighting minibosses or charging a conduit to earn rewards and further level up your ship!
 
 
-<h5>Dynamic Threat Events</h5>
+<h3><u>Dynamic Threat Events</h3></u>
 Aliens aren't your only threat! Survive the various timed threats such as Off-World Targeting, Outer Atmosphere Lightning, Pulsing Solar Flares, & more!
 
 
-<h5>Permanent Upgrades And Unlocks</h5>
+<h3><u>Permanent Upgrades And Unlocks</h3></u>
 Spend your hard earned credits on new ships, skins, & permanent Astral Upgrades and complete objectives to unlock ship perks, and Celestial Modifiers!
