@@ -18,30 +18,23 @@ Defend against the alien invasion and take down the mother ship! Utilise branchi
 <a href="{{ site.baseurl }}/img/SMDF/Outer Atmosphere Lightning Event.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/Outer Atmosphere Lightning Event.png" /></a>
 </div>
 
-<div class="col three caption">
-	Gameplay screenshots.
-</div>
-
 <p align="center"><iframe src="https://store.steampowered.com/widget/2220320/" frameborder="0" width="646" height="190" style="max-width:100%" data-external="1"></iframe>
 
-<h3>Combine Different Ship Modules Each Run</h3>
+<h5>Combine Different Ship Modules Each Run</h5>
 Equip your ship's directional module slots with various module types such as explosive, defensive, deployable, beam, & more!
 
-<h3>Choose Your Own Upgrade Paths</h3>
+
+<h5>Choose Your Own Upgrade Paths</h5>
 Featuring over 600 upgrades with unique progression via branching paths you can make each run different and unique with your choices.
 
-<h3>Optional Encounters</h3>
+
+<h5>Optional Encounters</h5>
 Complete optional random Encounters like fighting minibosses or charging a conduit to earn rewards and further level up your ship!
 
-<h3>Dynamic Threat Events</h3>
+
+<h5>Dynamic Threat Events</h5>
 Aliens aren't your only threat! Survive the various timed threats such as Off-World Targeting, Outer Atmosphere Lightning, Pulsing Solar Flares, & more!
 
-<h3>Permanent Upgrades And Unlocks</h3>
+
+<h5>Permanent Upgrades And Unlocks</h5>
 Spend your hard earned credits on new ships, skins, & permanent Astral Upgrades and complete objectives to unlock ship perks, and Celestial Modifiers!
-<br/>
-
-#### Links
-----
-[Space Mercenary Defense Force][SMDFSteamPage] Steam Page
-
-[SMDFSteamPage]: https://store.steampowered.com/app/2220320/Space_Mercenary_Defense_Force/
