@@ -9,7 +9,7 @@ published: true
 Created as a programming exercise to implement the 2048 game concept into Unity, this version is fully playable with a score, basic UI, and resolution and audio volume controls.
 
 <div class="owl-carousel owl-theme">
-	<a href="{{ site.baseurl }}/img/2048/2048-gameplay.gif" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048-gameplay.gif" /></a>
+	<iframe src="https://www.youtube.com/embed/Jj8STJNJ8TE" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
 	<a href="{{ site.baseurl }}/img/2048/2048_1.png" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048_1.png" /></a>
 	<a href="{{ site.baseurl }}/img/2048/2048_2.png" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048_2.png" /></a>
 	<a href="{{ site.baseurl }}/img/2048/2048_3.png" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048_3.png" /></a>
