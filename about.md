@@ -6,11 +6,11 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
 
-I'm a post-graduate with a BSc and a passion to create games. I've created a fully released game available on Steam and many side-projects since graduating.
+I’m a post-graduate with a BSc and a passion to create engaging games. Since graduating I have fully developed and released my own game available on Steam and many side projects.
 
-I most enjoy implementing interactive gameplay systems and mechanics that provide player feedback and response through an iterative design & implementation process.
+I most enjoy implementing interactive gameplay systems and mechanics through an iterative design & implementation process and pushing myself to design and create solutions to challenging problems.
 
-When I'm not working on my computer I love to express my creativity through projects such as drawing or creating clay miniatures as well as cooking and baking.
+I love to play all kinds of games and when I’m not on my computer I love to work on creative projects such as drawing or creating clay miniatures as well as cooking and baking.
 
 <br/>
 <hr/>
@@ -18,7 +18,7 @@ When I'm not working on my computer I love to express my creativity through proj
 <span class="contacticon center">
 	<a href="mailto:tomparadise1@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/TomParadise" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/tom-paradise-4a52b82b0/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/Tom_Para1" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 

@@ -2,7 +2,7 @@
 layout: project
 title: Relativity Demonstration
 description: Inspired by MC Escher to create puzzling environments.
-img: ../img/Relativity/RelativityThumbnail.png
+img: ../img/Relativity/thumbnailGIF.gif
 published: true
 ---
 Created in Unity and inspired by MC Escher, this project was made to implement the idea of reality-shifting environments into a playable space.

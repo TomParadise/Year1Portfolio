@@ -1,0 +1,18 @@
+---
+layout: project
+title: 2048
+description: A programming exercise.
+img: ../img/2048/2048-thumbnail.png 
+published: true
+---
+
+Created as a programming exercise to implement the 2048 game concept into Unity, this version is fully playable with a score, basic UI, and resolution and audio volume controls.
+
+<div class="owl-carousel owl-theme">
+	<a href="{{ site.baseurl }}/img/2048/2048-gameplay.gif" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048-gameplay.gif" /></a>
+	<a href="{{ site.baseurl }}/img/2048/2048_1.png" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048_1.png" /></a>
+	<a href="{{ site.baseurl }}/img/2048/2048_2.png" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048_2.png" /></a>
+	<a href="{{ site.baseurl }}/img/2048/2048_3.png" target="_blank"><img src="{{ site.baseurl }}/img/2048/2048_3.png" /></a>
+</div>   
+
+Use the arrow keys or the on screen directional arrows to slide the numbers in all four directions around the board. Any two same numbers will merge together and total the sum. play and try for a high score, can you reach 2048?
