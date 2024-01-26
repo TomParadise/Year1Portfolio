@@ -6,7 +6,7 @@ img: ../img/DWB/DWBThumbnail.png
 published: true
 ---
 
-Inspired by lemmings, Don't Walk By is a game revolved around health and safety. Each level has a specific layout with various hazards. You must use the given abilities to lead the dumb pawns out to the exit of the level to safety.
+Inspired by lemmings, Don't Walk By is focused on the theme of health and safety where you appropriately deal with hazards to safely lead your pals to the exit!
 
 Created by a final year university cohort of 33 students split into groups of 7, the game features:
 <ul>

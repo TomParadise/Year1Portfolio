@@ -6,9 +6,12 @@ img: ../img/SMDF/SMDF_square.png
 published: true
 ---
 
-<center>A 2D sci-fi action roguelike featuring boss fights and branching upgrade trees - released on Steam.</center><br/>
+Defend against the alien invasion and take down the mother ship! Utilise branching upgrade trees, unlock new ships, and equip permanent upgrades to create your own unique build and defeat the growing hordes of invaders in this sci-fi action roguelike!
+
+<p align="center"><iframe src="https://store.steampowered.com/widget/2220320/" frameborder="0" width="646" height="190" style="max-width:100%" data-external="1"></iframe>
 
 Space Mercenary Defense Force is a game project I solo created and launched on Steam Early Access. After the initial launch I continued developing it, releasing updates every week adding new content, major systems and features, bug fixes, & balancing as well as patch note writeups and social media posts. 
+
 After over 30 total updates I released the 1.0 update and launched it out of Early Access. Post-launch, it has been played and covered by Youtube and Twitch influencers, and picked up by a publisher for 3rd-party console ports on all major systems.
 
 <div class="owl-carousel owl-theme">
@@ -17,22 +20,3 @@ After over 30 total updates I released the 1.0 update and launched it out of Ear
 <a href="{{ site.baseurl }}/img/SMDF/Saucer Boss with HP bar.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/Saucer Boss with HP bar.png" /></a>
 <a href="{{ site.baseurl }}/img/SMDF/Outer Atmosphere Lightning Event.png" target="_blank"><img src="{{ site.baseurl }}/img/SMDF/Outer Atmosphere Lightning Event.png" /></a>
 </div>
-
-Defend against the alien invasion and take down the mother ship! Utilise branching upgrade trees, unlock new ships, and equip permanent upgrades to create your own unique build and defeat the growing hordes of invaders in this sci-fi action roguelike!
-
-<p align="center"><iframe src="https://store.steampowered.com/widget/2220320/" frameborder="0" width="646" height="190" style="max-width:100%" data-external="1"></iframe>
-
-<h4><u><center>Combine Different Ship Modules Each Run</center></u></h4>
-Equip your ship's directional module slots with various module types such as explosive, defensive, deployable, beam, & more!
-<p>
-<h4><u><center>Choose Your Own Upgrade Paths</center></u></h4>
-Featuring over 600 upgrades with unique progression via branching paths you can make each run different and unique with your choices.
-<p>
-<h4><u><center>Optional Encounters</center></u></h4>
-Complete optional random Encounters like fighting minibosses or charging a conduit to earn rewards and further level up your ship!
-<p>
-<h4><u><center>Dynamic Threat Events</center></u></h4>
-Aliens aren't your only threat! Survive the various timed threats such as Off-World Targeting, Outer Atmosphere Lightning, Pulsing Solar Flares, & more!
-<p>
-<h4><u><center>Permanent Upgrades And Unlocks</center></u></h4>
-Spend your hard earned credits on new ships, skins, & permanent Astral Upgrades and complete objectives to unlock ship perks, and Celestial Modifiers!

@@ -5,7 +5,9 @@ description: A VR drawing game.
 img: ../img/DrawIt/DrawItThumbnail.png 
 published: true
 ---
-‘Draw It!’ is a reimagining of the classic game Pictionary in virtual reality for the Oculus Quest created as a university assignment in a group of 4. Create 3D drawings in virtual space using intuitive motion controls, allowing for easy ‘pick up and play’ gameplay for everyone! Be immersed in mesmerising environments which alter gameplay with their dynamic word banks. Play local with one headset or online with others!
+‘Draw It!’ is a VR couch co-op style game inspired by Pictionary for the Oculus Quest, Rift, & Rift S created as a university assignment. 
+
+Create 3D drawings in virtual space using intuitive motion controls, allowing for easy ‘pick up and play’ gameplay for everyone! Be immersed in mesmerising environments which alter gameplay with their dynamic word banks. Played locally with one headset!
      
 <div class="owl-carousel owl-theme">
 	<iframe src="https://www.youtube.com/embed/LCaSdR38KLg" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
