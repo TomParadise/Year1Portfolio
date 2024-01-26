@@ -8,7 +8,7 @@ published: true
 
 Defend against the alien invasion and take down the mother ship! Utilise branching upgrade trees, unlock new ships, and equip permanent upgrades to create your own unique build and defeat the growing hordes of invaders in this sci-fi action roguelike!
 
-<p align="center"><iframe src="https://store.steampowered.com/widget/2220320/" frameborder="0" width="646" height="190" style="max-width:100%" data-external="1"></iframe>
+<p align="center"><iframe src="https://store.steampowered.com/widget/2220320/" frameborder="0" width="646" height="190" style="max-width:100%" data-external="1"></iframe></p>
 
 Space Mercenary Defense Force is a game project I solo created and launched on Steam Early Access. After the initial launch I continued developing it, releasing updates every week adding new content, major systems and features, bug fixes, & balancing as well as patch note writeups and social media posts. 
 
