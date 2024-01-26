@@ -8,6 +8,8 @@ published: true
 
 This is my final year dissertation project to create realistic terrains through simulating hydraulic erosion applied to fluid dynamics on procedural heightmaps.
 
+Developed in c++ (dll) interfacing with Unity.
+
 <div class="owl-carousel owl-theme">
 <iframe src="https://www.youtube.com/embed/p6WNek3dB4c" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
 <a href="{{ site.baseurl }}/img/FluidDynamics/1_simulationRunning.png" target="_blank"><img src="{{ site.baseurl }}/img/FluidDynamics/1_simulationRunning.png" /></a>

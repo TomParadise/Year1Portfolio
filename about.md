@@ -10,7 +10,7 @@ I’m a post-graduate with a BSc and a passion to create engaging games. Since g
 
 I most enjoy implementing interactive gameplay systems and mechanics through an iterative design & implementation process and pushing myself to design and create solutions to challenging problems.
 
-I love to play all kinds of games and when I’m not on my computer I love to work on creative projects such as drawing or creating clay miniatures as well as cooking and baking.
+I love to play all kinds of games but when I’m not on my computer I love to work on creative projects such as drawing or creating clay miniatures as well as cooking and baking.
 
 <br/>
 <hr/>
