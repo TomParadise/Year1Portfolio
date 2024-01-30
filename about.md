@@ -17,9 +17,7 @@ I love to play all kinds of games but when I’m not on my computer I love to wo
 <br/>
 <span class="contacticon center">
 	<a href="mailto:tomparadise1@gmail.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/TomParadise" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/tom-paradise-4a52b82b0/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="https://twitter.com/Tom_Para1" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
