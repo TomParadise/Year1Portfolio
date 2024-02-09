@@ -6,11 +6,11 @@ permalink: /about/
 
 <img class="col one right" src="{{ site.baseurl }}/img/profile_1.jpg">
 
-I’m a post-graduate with a BSc and a passion to create engaging games. Since graduating I have fully developed and released my own game available on Steam and many side projects.
+I am a post-graduate with a BSc and a passion to create engaging games. Since graduating I have fully developed and released my own game available on Steam and am working with a publisher to port it to all major console platforms.
 
 I most enjoy implementing interactive gameplay systems and mechanics through an iterative design & implementation process and pushing myself to design and create solutions to challenging problems.
 
-I love to play all kinds of games but when I’m not on my computer I love to work on creative projects such as drawing or creating clay miniatures as well as cooking and baking.
+I love to play all kinds of games but when I’m not on my computer I very much like to work on creative projects such as drawing or creating clay miniatures as well as cooking and baking.
 
 <br/>
 <hr/>

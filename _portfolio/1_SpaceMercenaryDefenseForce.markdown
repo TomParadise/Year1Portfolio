@@ -12,7 +12,7 @@ Defend against the alien invasion and take down the mother ship! Utilise branchi
 
 Space Mercenary Defense Force is a game project I solo created and launched on Steam Early Access. After the initial launch I continued developing it, releasing updates every week adding new content, major systems and features, bug fixes, & balancing as well as patch note writeups and social media posts. 
 
-After over 30 total updates I released the 1.0 update and launched it out of Early Access. Post-launch, it has been played and covered by Youtube and Twitch influencers, and picked up by a publisher for 3rd-party console ports on all major systems.
+After over 30 total updates I released the 1.0 update and launched it out of Early Access. Post-launch, it has been played and covered by Youtube and Twitch influencers, and picked up by a publisher for 3rd-party console ports on all major console platforms.
 
 <div class="owl-carousel owl-theme">
 <iframe src="https://www.youtube.com/embed/86VvIaYOfPI" width = "700" height="361" style="max-width:100%" data-external="1"></iframe>
