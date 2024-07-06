@@ -1,0 +1,28 @@
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Your Email Address]
+[Your Phone Number]
+[Date]
+
+[Chucklefish Game Studios]
+[Studio Address]
+[City, State, ZIP Code]
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Game Programmer position at Chucklefish Game Studios, as advertised. With a proven track record in video game development, a passion for indie games, and hands-on experience working with C++ and Lua codebases, I am confident in my ability to contribute effectively to your dynamic team.
+
+In my most recent role as the sole developer of 'Space Mercenary Defense Force,' a game released on Steam, I successfully navigated the entire game development lifecycle. This experience has equipped me with a deep understanding of both gameplay and systems programming, aligning perfectly with the responsibilities outlined for the Chucklefish Game Programmer role.
+
+My technical expertise extends to working with a custom game engine, and I am adept at implementing new gameplay and game systems while optimizing and improving existing code. I have a comprehensive understanding of modern C++ (C++14 and above) and am well-versed in distributed source control, particularly git. The pragmatic approach I bring to my work ensures that I always prioritize what is best for the project, while my self-motivated and proactive attitude allows me to thrive in a collaborative and fast-paced environment.
+
+One of my strengths lies in my ability to communicate effectively with both technical and non-technical team members. This skill has been essential in my previous collaborations with artists and designers, fostering an environment of seamless cooperation and efficient problem-solving.
+
+Your requirements perfectly align with my skill set, and I am excited about the opportunity to contribute my expertise to Chucklefish Game Studios. The innovative projects and commitment to quality at your studio deeply resonate with me, and I am eager to be a part of the team that continues to push boundaries in the indie gaming industry.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my experience and skills make me an ideal fit for the Game Programmer role at Chucklefish Game Studios.
+
+Sincerely,
+
+[Your Name]
